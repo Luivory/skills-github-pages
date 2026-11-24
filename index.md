@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Welcome welcome :) !
 ---
 
 
@@ -7,11 +7,11 @@ title: Welcome to my blog!
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Mi primera web</title>
+  
 </head>
 <body>
 
-  <h1>Hola, soy WhiteNoiseLab</h1>
+  <h1>Hola, soy Gorlax</h1>
   <p>Esta es mi primera página web creada con GitHub.</p>
 
   <h2>Mis sonidos</h2>
@@ -21,7 +21,7 @@ title: Welcome to my blog!
     <li>Ranas por la noche</li>
   </ul>
 
-  <a href="https://www.youtube.com">Ir a mi canal de YouTube</a>
+  <a href="https://www.github.com/Luivory">Ir a mi github</a>
 
 </body>
 </html>
